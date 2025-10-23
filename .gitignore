@@ -1,3 +1,4 @@
 .env
 .env.*
 *.ipynb_checkpoints
+wildfire-mapping-and-simulation-with-cellular-auto/
